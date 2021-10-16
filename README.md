@@ -24,6 +24,10 @@
 
 [`Click Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+
+
 ## `SETTING`
 
 - Owner number [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L4)
